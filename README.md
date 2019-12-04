@@ -1,6 +1,6 @@
-# Waste-segregation-end2end
+# Robobin-end2end
 
-Birth for this repository. Following things need to be updated.
+Birth for this repository. Following things need to be uploaded.
 
 ## Pre-processing:
 Upload files from your local directory.
