@@ -1,11 +1,8 @@
 # Robobin-end2end
 
-Birth for this repository. Following things need to be uploaded.
+Following things need to be uploaded.
 
 ## Image marking - previous dataset - of no use for new one
-
-## Pre-processing:
-Upload files from your local directory.
 
 ## Inference:
 Upload weight file and model architecture. 
@@ -17,6 +14,3 @@ Not necessary for the designed pipeline, still if you want to upload then you ca
 
 ## Hardware integration:
 FA, BO, AR
-
-## TODO
-Remove general access.
